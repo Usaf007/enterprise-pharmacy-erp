@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <b>Architected and developed by Yousaf Atiq (Data Scientist| AI & ML Engineer)</b><br>
+  <b>Architected and developed by Yousaf Atiq (Data Scientist | AI & ML Engineer)</b><br>
   <i>Built as part of the 6th Semester Software Engineering curriculum.</i><br><br>
   Made with ❤️ and ☕ in Mardan.
 </div>
