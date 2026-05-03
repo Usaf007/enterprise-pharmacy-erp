@@ -118,6 +118,19 @@ If you wish to fork this project, view the source code, or contribute, follow th
 
 ---
 
+## 🤝 Support & Contact
+
+If you run into any issues, need a bug fixed, or want to request a custom feature for your business, feel free to reach out!
+
+* **Email:** [usafatiq@gmail.com](mailto:usafatiq@gmail.com)
+* **LinkedIn:** [Yousaf Atiq](https://www.linkedin.com/in/yousaf-atiq)
+
+*If you are a developer, please feel free to open an Issue or submit a Pull Request directly on this repository.*
+
+---
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
