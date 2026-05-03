@@ -1,11 +1,23 @@
 # 🏥 Faran Nexus ERP | Enterprise Pharmacy Management System
 
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-green)
+<div align="center">
+
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django API](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 A full-stack, enterprise-grade Enterprise Resource Planning (ERP) application engineered specifically for retail pharmacies and medical stores. This project digitizes complex daily business operations, replacing error-prone manual ledger-keeping with a secure, automated, and entirely offline digital platform.
+
+</div>
+
+<br>
 
 ![Main Dashboard](readme-assets/main_dashboard.png)
 
@@ -32,7 +44,7 @@ Engineered for high-speed retail environments where checkout speed is critical.
 * **Dynamic Calculations:** Real-time calculation of Net Totals, Sales Tax, and granular percentage-based Discounts.
 * **Live Profit Tracking:** Instantly calculates the profit margin per invoice based on the differential between Trade Price (TP) and Retail Price.
 * **Automated Stock Sync:** Instantly deducts purchased items from the master inventory upon invoice generation.
-* **Invoice Management:** Dedicated `Invoice View` module for editing, auditing, or reprinting past transactions.
+* **Invoice Management:** Dedicated `Invoice View` module for veiwing, auditing, or reprinting past transactions.
 
 ![Sale Invoice Screen](readme-assets/sale_invoice.png)
 
@@ -115,5 +127,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <b>Architected and developed by Yousaf Atiq (Data Scientist| AI & ML Engineer)</b><br>
   <i>Built as part of the 6th Semester Software Engineering curriculum.</i><br><br>
-  Made with ❤️ and ☕ by Usaf in Mardan.
+  Made with ❤️ and ☕ in Mardan.
 </div>
