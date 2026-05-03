@@ -1,0 +1,21 @@
+# Python / Virtual Environment
+erp_env/
+__pycache__/
+*.pyc
+
+# Node / React Frontend
+desktop-app/node_modules/
+desktop-app/dist/
+
+# PyInstaller Build Artifacts (Keep the setup folder, ignore the raw build files)
+build/
+dist/
+*.spec
+
+# Database (Do not push your local testing database)
+db.sqlite3
+Database_Backups/
+
+# OS Files
+Thumbs.db
+.DS_Store
